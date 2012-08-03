@@ -10,6 +10,7 @@ public class TestMain {
 		System.out.println("First GitHub commit :) 2012/08/03 17:02");
 		
 		// 2012/08/03 17:35 -> comment 2 
+		// 2012/08/03 23:50 -> comment 3
 	}
 
 }
