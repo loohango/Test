@@ -7,8 +7,10 @@ public class TestMain {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("First GitHub commit :) 2012/08/03 17:02");
-		
+		int i, n = 10;
+		for (i = 0; i < n; i++) {
+			System.out.println("First GitHub commit :) 2012/08/04 13:22");
+		}
 		// 2012/08/03 17:35 -> comment 2 
 		// 2012/08/03 23:50 -> comment 3
 	}
